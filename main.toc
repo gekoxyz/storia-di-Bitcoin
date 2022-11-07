@@ -1,0 +1,6 @@
+\contentsline {section}{\numberline {1}Le idee che hanno portato a Bitcoin}{1}{section.1}%
+\contentsline {section}{\numberline {2}Satoshi Nakamoto - 2007/2011}{1}{section.2}%
+\contentsline {subsection}{\numberline {2.1}18 agosto 2008}{1}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}31 ottobre 2008}{3}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Gli anni della puberta' del protocollo}{4}{section.3}%
+\contentsline {section}{\numberline {4}Block size war}{4}{section.4}%
